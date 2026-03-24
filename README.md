@@ -1,23 +1,23 @@
-# 📊 Federal Procurement Data Analysis (FPDS)
+# Federal Procurement Data Analysis (FPDS)
 
-## 📌 Dataset Used
+## Dataset Used
 This project uses a cleaned dataset derived from the Federal Procurement Data System (FPDS), containing key fields such as vendor, agency, contract value, action date, state, and industry.
 
 ---
 
-## 🎯 Objective
+## Objective
 - Analyze government spending trends over time  
 - Evaluate vendor performance  
 - Identify agency, industry, and regional distribution patterns  
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib)
 
 ---
 
-## 🧹 Data Cleaning
+## Data Cleaning
 - Selected relevant columns from raw dataset  
 - Handled missing values using median, mode, and placeholders  
 - Removed invalid records (zero/negative values)  
@@ -25,7 +25,7 @@ This project uses a cleaned dataset derived from the Federal Procurement Data Sy
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 - Year-wise spending trend analysis  
 - Top vendors by contract value  
 - Agency-wise expenditure distribution  
@@ -34,10 +34,10 @@ This project uses a cleaned dataset derived from the Federal Procurement Data Sy
   
 ---
 
-## 📌 Conclusion
+## Conclusion
 This project highlights key trends in government procurement, including vendor concentration, increasing spending patterns, and sector-wise distribution. The analysis provides valuable insights for decision-making and performance evaluation.
 
 ---
 
-## 👤 Author
+## Author
 **Alamaara Kazi**  
